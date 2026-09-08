@@ -4,6 +4,10 @@
 
 **A fully local AI coding assistant for VS Code — works like Claude Code, runs 100% on your machine.**
 
+[**Get it on the VS Code Marketplace →**](https://marketplace.visualstudio.com/items?itemName=danielmadridg.silo-local-ai)
+
+![Silo on the VS Code Marketplace — 41 installs, 5 stars](docs/screenshots/marketplace.png)
+
 </div>
 
 ---
@@ -22,6 +26,8 @@ your own GPU.
 - **Refactoring & analysis** — select code + an instruction and Silo rewrites it; detects bugs, performance issues, and code smells in a file
 - **Code explanation** — understand complex code on demand
 - **VS Code-native** — right-click menu, command palette, zero setup beyond Ollama
+
+![Silo chat panel answering a question, running fully locally](docs/screenshots/chat.png)
 
 ## Installation / Usage
 
